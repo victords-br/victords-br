@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Victor Andrade Xavier!
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cientista+de+Dados+em+forma%C3%A7%C3%A3o;Apaixonada+por+Tecnologia+e+Dados;Construindo+solu%C3%A7%C3%B5es+inteligentes)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cientista+de+Dados+em+forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Dados;Construindo+solu%C3%A7%C3%B5es+inteligentes)](https://git.io/typing-svg)
 
 </div>
 
