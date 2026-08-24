@@ -51,7 +51,7 @@ Sou estudante de **Ciência de Dados** com uma trajetória única: comecei na ge
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](linkedin.com/in/victorx74)
+- 💼 [LinkedIn](https://www.linkedin.com/in/victorx74/)
 - 📧 victordev74@outlook.com
 - 🌍 Ilhéus, BA
 
