@@ -36,7 +36,7 @@ Sou estudante de **Ciência de Dados** com uma trajetória única: comecei na ge
 ### [📊 Análise de Churn - Telecom](https://github.com/victords-br/analise-churn-telecom/blob/main/README.md)
 > O objetivo deste projeto é identificar padrões de cancelamento (churn) em uma empresa de telecomunicações e fornecer recomendações acionáveis para redução da taxa de evasão de clientes.
 
-### [📊 Análise de Churn - Telecom](https://github.com/victords-br/PipelineEconomicos/blob/main/README.md)
+### [📊 Pipeline de Indicadores Econômicos](https://github.com/victords-br/PipelineEconomicos/blob/main/README.md)
 > O projeto automatiza a coleta, transformação e visualização de indicadores econômicos (Dólar, Selic e IPCA), demonstrando minhas habilidades em Python, ETL, Cloud Computing e Automação.
 ---
 
