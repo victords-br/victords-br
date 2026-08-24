@@ -36,11 +36,12 @@ Sou estudante de **Ciência de Dados** com uma trajetória única: comecei na ge
 ### 🚌 Sistema de Monitoramento de Frotas
 > Sistema para fiscalização e controle estatístico de ônibus urbanos, com foco em eficiência operacional e tomada de decisão baseada em dados.
 
-### 📊 Estudo Logístico em Ilhéus
+### 🚌 Estudo Logístico em Ilhéus
 > Análise de dados em parceria com a **Engebus** para otimização da mobilidade urbana, utilizando Python e ferramentas de BI.
 
 ### 📊 Análise de Churn - Telecom
 > Identificação de padrões de cancelamento e recomendações para redução de churn.
+> 
 Link Projeto: [https://github.com/victords-br/analise-churn-telecom/blob/main/README.md]
 ---
 
