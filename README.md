@@ -39,10 +39,8 @@ Sou estudante de **Ciência de Dados** com uma trajetória única: comecei na ge
 ### 🚌 Estudo Logístico em Ilhéus
 > Análise de dados em parceria com a **Engebus** para otimização da mobilidade urbana, utilizando Python e ferramentas de BI.
 
-### 📊 Análise de Churn - Telecom
+[### 📊 Análise de Churn - Telecom](https://github.com/victords-br/analise-churn-telecom/blob/main/README.md)
 > Identificação de padrões de cancelamento e recomendações para redução de churn.
-> 
-Link Projeto: [https://github.com/victords-br/analise-churn-telecom/blob/main/README.md]
 ---
 
 ## 📚 O que estou estudando agora
