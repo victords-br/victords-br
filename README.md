@@ -39,6 +39,9 @@ Sou estudante de **Ciência de Dados** com uma trajetória única: comecei na ge
 ### 📊 Estudo Logístico em Ilhéus
 > Análise de dados em parceria com a **Engebus** para otimização da mobilidade urbana, utilizando Python e ferramentas de BI.
 
+### 📊 Análise de Churn - Telecom
+> Identificação de padrões de cancelamento e recomendações para redução de churn.
+Link Projeto: [https://github.com/victords-br/analise-churn-telecom/blob/main/README.md]
 ---
 
 ## 📚 O que estou estudando agora
@@ -52,7 +55,7 @@ Sou estudante de **Ciência de Dados** com uma trajetória única: comecei na ge
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui/)
+- 💼 [LinkedIn](www.linkedin.com/in/victorx74)
 - 📧 victordev74@outlook.com
 - 🌍 Ilhéus, BA
 
