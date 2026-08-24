@@ -1,4 +1,9 @@
 # 👋 Olá, eu sou o Victor Andrade Xavier!
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Engenheira+de+Dados+em+forma%C3%A7%C3%A3o;Apaixonada+por+Tecnologia+e+Dados;Construindo+solu%C3%A7%C3%B5es+inteligentes)](https://git.io/typing-svg)
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victordev74@outlook.com)
